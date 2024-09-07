@@ -11,10 +11,10 @@
 - run 'npx create-next-app@latest' to create next js project
 - run 'npm run dev' to run blink to local host
 
-- 'git add <filename>' to add files to be pushed
-- 'git status'
-- 'git commit -m add <filename>' to commit files with message
-- 'git push' push files to git
+- `git add <filename>` to add files to be pushed
+- `git status`
+- `git commit -m add <filename>` to commit files with message
+- `git push` push files to git
 
 ```
 javascript
