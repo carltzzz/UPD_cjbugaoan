@@ -8,7 +8,13 @@
 - run `npx ts-node ./wallet_to_bs58.ts` to run ./create_account.ts
 - Add `.gitignore` and put the word `node_modules` for git to ignore the node_modules directory
 
-- run npx create-next-app@latest to create next js project
+- run 'npx create-next-app@latest' to create next js project
+- run 'npm run dev' to run blink to local host
+
+- 'git add <filename>' to add files to be pushed
+- 'git status'
+- 'git commit -m add <filename>' to commit files with message
+- 'git push' push files to git
 
 ```
 javascript
@@ -17,7 +23,3 @@ const foo  = "9";
 typescript
 const foo: number  = "9";
 
-git add <filename>
-git status
-git commit -m add <filename>
-git push
