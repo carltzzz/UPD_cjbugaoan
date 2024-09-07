@@ -8,6 +8,8 @@
 - run `npx ts-node ./wallet_to_bs58.ts` to run ./create_account.ts
 - Add `.gitignore` and put the word `node_modules` for git to ignore the node_modules directory
 
+- run npx create-next-app@latest to create next js project
+
 ```
 javascript
 const foo  = "9";
