@@ -14,3 +14,8 @@ const foo  = "9";
 
 typescript
 const foo: number  = "9";
+
+git add <filename>
+git status
+git commit -m add <filename>
+git push
