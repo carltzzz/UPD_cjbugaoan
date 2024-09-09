@@ -11,6 +11,8 @@
 - run `npx create-next-app@latest` to create next js project
 - run `npm run dev` to run blink to local host
 
+- run `npm i @solana/spl-token`
+
 - `git add <filename>` to add files to be pushed
 - `git status`
 - `git commit -m add <filename>` to commit files with message
@@ -21,7 +23,13 @@
 Create Account
 09-08-2024     21rmSGz1Y51VEfordRBHifUmKJdXTrXNybYsNV3u74Q2eJafFZVrRcLLYXANdp8r26N3Wssh1RAJ7CT13stwD1LR
 
+09-09-2024
+onRjPmjgYJYdXd6szTx1XHMsKHPRuv7qdVweueQFodfn42DdbD7dDuG3B7qbaHFNG8Snw1qBJtwEL7tFnji7GE1
+
 
 Transfer SOL
 09-08-2024     hUSg1mWunBi8JL2bTdAx9kiQzY9qgkMAPwTBCWJyWDaG8rfqJkoddMUrzpGejNg515udMZr7j6bRhcrDEgtx3dk
+
+09-09-2024
+3xQPPRqqFkUnr3nHmvzYFXXEPL1T32wkADghpHVUJwku3cVwFnEMG96Gid5z6WgWBaFdBDhFxsyquVpGqQzFRNh4
 
