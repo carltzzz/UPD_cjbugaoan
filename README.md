@@ -1,4 +1,4 @@
-# UPD_cjbugaoan
+cd # UPD_cjbugaoan
 
 - run `npm init --y` to create a new node project
 - run `npm i -D ts-node typescript` to add typescript
@@ -25,11 +25,14 @@ Create Account
 
 09-09-2024     onRjPmjgYJYdXd6szTx1XHMsKHPRuv7qdVweueQFodfn42DdbD7dDuG3B7qbaHFNG8Snw1qBJtwEL7tFnji7GE1
 
+09-10-2024     5t2uoQ36LdNwyE9s9vh4oAXBTuJ23NUQAckgtKua3biyPGQpdMZdge7o8E7XnpZpZfXfUArqagfnMyxj4c8Y1ipH
 
 Transfer SOL
 09-08-2024     hUSg1mWunBi8JL2bTdAx9kiQzY9qgkMAPwTBCWJyWDaG8rfqJkoddMUrzpGejNg515udMZr7j6bRhcrDEgtx3dk
 
 09-09-2024     3xQPPRqqFkUnr3nHmvzYFXXEPL1T32wkADghpHVUJwku3cVwFnEMG96Gid5z6WgWBaFdBDhFxsyquVpGqQzFRNh4
+
+09-10-2024     4Xk8ZSjHWX42swh7BxQ4hL3Qr5xbU8R48L51QCpWezDgJyqx7rMHU8yWmvSRwmcKGPJ9MNNhMp59panMkHCAXpDT
 
 
 
