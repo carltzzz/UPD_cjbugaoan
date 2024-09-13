@@ -44,3 +44,8 @@ Transfer SOL
 
 
 
+Fungible Token
+09-13-2024    3HA7XShyristSKNShogSrTeE17sFJxxSNKBXHCoH1H9NnkzpGuAfH3E2behzRjmfH3mwg6EqvCF1Nffr7z4wm7Sh
+
+
+
