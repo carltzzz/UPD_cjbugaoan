@@ -35,7 +35,7 @@ import { ASSOCIATED_TOKEN_PROGRAM_ID, createAssociatedTokenAccountIdempotentInst
             newAccountPubkey: NEW_KEYPAIR.publicKey,
             lamports: minimumRent,
             space: MINT_SIZE,
-            programId: SystemProgram.programId,
+            programId: TOKEN_PROGRAM_ID,
         }),
         createInitializeMint2Instruction(
             NEW_KEYPAIR.publicKey,
@@ -64,13 +64,11 @@ import { ASSOCIATED_TOKEN_PROGRAM_ID, createAssociatedTokenAccountIdempotentInst
         )
     ];
 
-
-    // const txHash = await CONNECTION.sendTransaction(tx, [MY_KEYPAIR, NEW_KEYPAIR]);
-    // console.log(txHash);
-
+    tx.feePayer = MY_KEYPAIR.publicKey;
     tx.lastValidBlockHeight = lastValidBlockHeight;
     tx.recentBlockhash = blockhash;
-    tx.sign(MY_KEYPAIR, NEW_KEYPAIR);
+    tx.partialSign(MY_KEYPAIR, NEW_KEYPAIR);
+    
 
     const serialized = tx.serialize();
     const txHash = await CONNECTION.sendRawTransaction(serialized);
