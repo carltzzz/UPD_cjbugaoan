@@ -18,6 +18,10 @@ cd # UPD_cjbugaoan
 - `git commit -m add <filename>` to commit files with message
 - `git push` push files to git
 
+
+
+Run `pnpm or npm create next-app` to create a next js project
+
 ```
 
 Create Account
