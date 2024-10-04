@@ -10,6 +10,7 @@ cd # UPD_cjbugaoan
 
 - run `npx create-next-app@latest` to create next js project
 - run `npm run dev` to run blink to local host
+- run `npm add @solana/actions`
 
 - run `npm i @solana/spl-token`
 
